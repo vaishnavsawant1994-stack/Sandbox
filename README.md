@@ -40,3 +40,7 @@ Sandboxes are created in `sandboxes/` next to this script. Python virtualenvs an
 - `full` is a virtualenv plus the jail option.
 
 This is a practical sandbox for experiments. It is not a virtual machine and not a defense against kernel exploits.
+
+## Detailed project documentation
+
+See the [**Project Handbook**](docs/PROJECT_HANDBOOK.md) for this repository's intended users, actual source scope, features, architecture, local setup, known limitations, security constraints, qualification requirements and prioritized future work. Source documentation is not proof of live production completeness.
